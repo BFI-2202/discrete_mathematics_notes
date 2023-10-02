@@ -12,4 +12,5 @@
 | 05.09.2023 | Лекция | Математическая логика: логические операции, свойства логических операций, логические предикаты, кванторы | [markdown](semester_01/september/05-09-2023.md), [pdf](semester_01/september/render/05-09-2023.pdf) |
 | 19.09.2023 | Лекция | Теория множеств: способы задания множеств, типы множеств, операции над множествами, мера множеств, отношения множеств | [markdown](semester_01/september/19-09-2023.tex), [pdf](semester_01/september/render/19-09-2023.pdf) |
 | 26.09.2023 | Практика | Нормальные формы: ДНФ, КНФ, СДНФ, СКНФ, АНФ; Минимизация булевых функций: метод Куайна | [tex](semester_01/september/26-09-2023.tex), [pdf](semester_01/september/render/26-09-2023.pdf) |
+| 02.10.2023 | Практика | Решение булевых систем уравнений | [tex](semester_01/september/02-10-2023.tex), [pdf](semester_01/september/render/02-10-2023.pdf) |
 | **Общий документ** | --- | --- | [markdown](semester_01/september/september.md), [pdf](semester_01/september/render/september.pdf) |
